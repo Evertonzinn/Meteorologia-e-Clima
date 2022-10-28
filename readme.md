@@ -1,7 +1,7 @@
 Apresentação do Projeto e API's utilizadas:
 Estruturação do Projeto:
 
-# Projetofeito em HTML, CSS e JavaScript, sendo que o HTML só possui a estrutura simples de pagina e o CSS contem a estilização.
+# Projeto feito em HTML, CSS e JavaScript, sendo que o HTML só possui a estrutura simples de pagina e o CSS contem a estilização.
 
 # Todas as chamadas de API e outras informações são feitas pelo JS.
 
