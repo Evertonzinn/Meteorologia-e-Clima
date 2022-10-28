@@ -1,4 +1,4 @@
-// https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=3482cae5567df6304c6109ccccd9684a
+// https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=Digite_sua_chavekey_aqui
 // API KEY: "Digite aqui sua chave"
 
 const apiKey = "Coloque aqui sua chave";
